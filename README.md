@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @claudiomorera
 - 👀 I’m interested in Interactive Web Pages, Phone Applications, and game development.
 - 🌱 I’m currently learning Full Stack Web Development At BloomTech
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Web Program
 - 📫 How to reach me claudiomorera29@gmail.com
 
 <!---
